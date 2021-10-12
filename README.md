@@ -10,7 +10,7 @@ we all start with a `Hello world` so here's one with flask
 ## To start a running server (on windows)
 - type `FLASK_APP = app`
 - type `FLASK_ENV = development`
-- finally type `Flask run`
+- finally type `flask run`
 
 Then you will see the following output 
 ```
